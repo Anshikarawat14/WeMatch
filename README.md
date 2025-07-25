@@ -12,7 +12,8 @@ WeMatch is a modern event management platform built with React, designed to help
 
 ## Demo
 
-> _Add a link to your live demo or screenshots here if available._
+<img width="1854" height="746" alt="image" src="https://github.com/user-attachments/assets/69b7b189-6274-4339-9738-f60968ee6fce" />
+
 
 ## Getting Started
 
