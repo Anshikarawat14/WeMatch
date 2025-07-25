@@ -66,9 +66,7 @@ WeMatch is a modern event management platform built with React, designed to help
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Vite](https://vitejs.dev/)
 
-## License
-
-> _Specify your license here (e.g., MIT, Apache 2.0, etc.)_
+## By Anshika :)
 
 ---
 
